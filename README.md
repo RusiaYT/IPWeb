@@ -7,7 +7,7 @@ Una Herramienta Para Poder Sacar La IP De Cualquier Sitio Web
 - apt upgrade
 - apt install git
 - apt install python
-- git clone https://github.com/RusiaYT/IPWeb
+- git clone https://github.com/RusiaYT/IPWeb.git
 - cd
 - python IPWeb
 # Paso 1
