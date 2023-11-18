@@ -22,4 +22,5 @@ Abajo Saldra La IP
 - apt install python2
 - cd
 - python2 IPWeb
+
 Aviso: **NO ME HAGO RESPONSABLE DEL MAL USO DE LA HERRAMIENTA**
