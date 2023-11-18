@@ -17,4 +17,3 @@ def Miscript():
 Miscript()
 exit()
 #Johnknife JOD3 4 T0DO5 :)
-# Código de: https://github.com/RusiaYT
